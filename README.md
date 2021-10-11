@@ -1,17 +1,21 @@
->**Note**: Please **fork** the current Udacity repository so that you will have a **remote** repository in **your** Github account. Clone the remote repository to your local machine. Later, as a part of the project "Post your Work on Github", you will push your proposed changes to the remote repository in your Github account.
-
 ### Date created
-Include the date you created this project and README file.
+11.10.2021
 
 ### Project Title
-Replace the Project Title
+Bikeshare project 
 
 ### Description
-Describe what your project is about and what it does
+Bikeshare project was developed for Programming for Data Scince class at Udacity university. Python script
+reads data from .csv files for either Washington, New York city or Chicago. Using interactive interface a user
+can choose the city and define some other parametrs to extract statistical information from the data.
 
 ### Files used
-Include the files used
+Bikeshare.py
+readme.txt
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
-
+* Open and display .png file in python using PIL: https://stackoverflow.com/questions/10372887/open-and-display-png-file-in-python-using-pil
+* Python documentation
+* Pandas documentation
+* Automated the boring stuff with Python by Al Sweigart
+* Lectures for Programming for Data Science
